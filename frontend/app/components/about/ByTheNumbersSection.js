@@ -32,7 +32,7 @@ export default function ByTheNumbersSection() {
             {/* Studio Location Footer Label on Image */}
             <div className="absolute bottom-6 left-6 right-6 flex items-center justify-between text-xs tracking-[0.2em] uppercase text-zinc-400 font-semibold">
               <span>THE STUDIO</span>
-              <span>ENDEAVOUR HILLS, VIC 3802</span>
+              <span>SPRINGVALE, VIC 3171</span>
             </div>
           </div>
         </div>

@@ -109,7 +109,7 @@ export default function Footer() {
               </a>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-4 h-4 text-[#FBBF24] flex-shrink-0 mt-0.5" />
-                <span>Springvale, VIC 3802</span>
+                <span>Springvale, VIC 3171</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="w-4 h-4 text-[#FBBF24] flex-shrink-0" />
