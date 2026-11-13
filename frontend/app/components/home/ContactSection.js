@@ -198,13 +198,12 @@ export default function ContactSection() {
 
               <div>
                 <label className="block text-sm font-medium text-zinc-300 mb-2">
-                  Email Address *
+                  Email Address (optional)
                 </label>
                 <input 
                   type="email"
                   placeholder="john@example.com"
-                  {...register("email", { 
-                    required: "Email address is required",
+                  {...register("email", {
                     pattern: {
                       value: /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i,
                       message: "Invalid email address format"

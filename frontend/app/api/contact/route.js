@@ -10,7 +10,7 @@ export async function POST(request) {
     const { fullName, email, phone, service, message } = body;
 
     // Server-side validation check
-    if (!fullName || !email || !message) {
+    if (!fullName || !message) {
       return NextResponse.json(
         { success: false, error: 'Please fill in all required fields.' },
         { status: 400 }
@@ -27,7 +27,7 @@ export async function POST(request) {
           <div style="font-family: Arial, sans-serif; padding: 20px; background: #121214; color: #fff; border-radius: 10px;">
             <h2 style="color: #FBBF24;">New Enquiry - Lux Customs</h2>
             <p><strong>Full Name:</strong> ${fullName}</p>
-            <p><strong>Email Address:</strong> ${email}</p>
+            <p><strong>Email Address:</strong> ${email || 'Not provided'}</p>
             <p><strong>Phone:</strong> ${phone || 'N/A'}</p>
             <p><strong>Selected Service:</strong> ${service || 'General Enquiry'}</p>
             <p><strong>Message:</strong></p>

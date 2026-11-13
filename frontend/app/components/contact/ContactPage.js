@@ -105,13 +105,12 @@ export default function ContactPage() {
 
                 <div className="space-y-2">
                   <label className="block text-xs font-bold tracking-widest text-zinc-400 uppercase">
-                    Email *
+                    Email (optional)
                   </label>
                   <input 
                     type="email"
                     placeholder="you@email.com"
-                    {...register("email", { 
-                      required: "Email is required",
+                    {...register("email", {
                       pattern: {
                         value: /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i,
                         message: "Invalid email format"
