@@ -54,7 +54,7 @@ export default function AboutHero() {
             custom={0.4}
             className="text-sm sm:text-base lg:text-lg text-zinc-300 max-w-xl font-normal leading-relaxed drop-shadow"
           >
-            A tinting and detailing studio in Endeavour Hills where craftsmanship outranks volume — every single time.
+            A tinting and detailing studio in Springvale where craftsmanship outranks volume — every single time.
           </motion.p>
 
         </motion.div>

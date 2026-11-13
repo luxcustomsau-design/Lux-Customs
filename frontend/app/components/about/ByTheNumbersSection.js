@@ -22,7 +22,7 @@ export default function ByTheNumbersSection() {
           <div className="relative group overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-900 aspect-[4/3] sm:aspect-[4/3]">
             <Image
               src="/about/aboutCar.avif"
-              alt="Lux Customs Studio Endeavour Hills"
+              alt="Lux Customs Studio Springvale"
               fill
               className="object-cover transition-transform duration-500 ease-out group-hover:scale-105 opacity-85"
             />

@@ -55,7 +55,7 @@ export default function Hero() {
             custom={0.4}
             className="text-sm sm:text-base lg:text-lg text-zinc-300 max-w-lg font-normal leading-relaxed pt-2 drop-shadow"
           >
-            From your first tint to a full correction and coating — everything happens in our Endeavour Hills studio, by the same pair of hands.
+            From your first tint to a full correction and coating — everything happens in our Springvale studio, by the same pair of hands.
           </motion.p>
 
         </motion.div>

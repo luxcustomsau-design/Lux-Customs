@@ -54,7 +54,7 @@ export default function ContactHero() {
             custom={0.4}
             className="text-sm sm:text-base lg:text-lg text-zinc-300 max-w-xl font-normal leading-relaxed drop-shadow"
           >
-            Call the studio, drop by Endeavour Hills, or send an enquiry — we reply within one business day.
+            Call the studio, drop by Springvale, or send an enquiry — we reply within one business day.
           </motion.p>
 
         </motion.div>

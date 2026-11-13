@@ -221,7 +221,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <p className="text-[10px] text-zinc-500 uppercase tracking-[0.2em] font-semibold">Visit Us</p>
-                <p className="text-base font-bold text-white">Endeavour Hills, VIC 3802</p>
+                <p className="text-base font-bold text-white">Springvale, VIC 3802</p>
               </div>
             </div>
 

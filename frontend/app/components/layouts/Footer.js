@@ -59,7 +59,7 @@ export default function Footer() {
             </div>
 
             <p className="text-sm text-zinc-400 leading-relaxed pr-2 max-w-md">
-              Endeavour Hills' studio for window tinting, detailing, paint correction and paint protection. Precision in every panel.
+              Springvale' studio for window tinting, detailing, paint correction and paint protection. Precision in every panel.
             </p>
           </motion.div>
 
@@ -109,7 +109,7 @@ export default function Footer() {
               </a>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-4 h-4 text-[#FBBF24] flex-shrink-0 mt-0.5" />
-                <span>Endeavour Hills, VIC 3802</span>
+                <span>Springvale, VIC 3802</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="w-4 h-4 text-[#FBBF24] flex-shrink-0" />
@@ -146,7 +146,7 @@ export default function Footer() {
         <div className="mt-16 pt-6 border-t border-zinc-900 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-500 text-center sm:text-left">
           <p>© {currentYear} LUXCUSTOMS. All rights reserved.</p>
           <p className="tracking-[0.2em] text-zinc-600 uppercase mt-2 sm:mt-0">
-            Endeavour Hills · VIC
+            Springvale · VIC
           </p>
         </div>
 

@@ -131,7 +131,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <p className="text-xs text-zinc-500 uppercase tracking-wider">Location</p>
-                    <p className="font-semibold text-white">85 Kennington Park Dr, Endeavour Hills VIC 3802, Australia</p>
+                    <p className="font-semibold text-white">85 Kennington Park Dr, Springvale VIC 3802, Australia</p>
                   </div>
                 </div>
               </div>
