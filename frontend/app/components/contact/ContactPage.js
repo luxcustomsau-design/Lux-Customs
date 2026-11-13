@@ -221,7 +221,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <p className="text-[10px] text-zinc-500 uppercase tracking-[0.2em] font-semibold">Visit Us</p>
-                <p className="text-base font-bold text-white">Endeavour Hills, VIC 3802</p>
+                <p className="text-base font-bold text-white">Springvale, VIC 3171</p>
               </div>
             </div>
 
@@ -238,7 +238,7 @@ export default function ContactPage() {
             <div className="rounded-2xl overflow-hidden border border-zinc-800 shadow-lg h-64 w-full">
               <iframe
                 title="Lux Customs Location Map"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1197.523999641186!2d145.2457621602237!3d-37.96760401638324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6177515a192fb%3A0xc47c1a9724f24199!2sLux%20Customs!5e0!3m2!1sen!2sin!4v1789288494459!5m2!1sen!2sin"
+                src="https://www.google.com/maps?q=Springvale+Business+Park,+Springvale+VIC+3171&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0, filter: 'invert(90%) hue-rotate(180deg)' }}

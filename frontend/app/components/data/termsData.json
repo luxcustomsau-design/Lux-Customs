@@ -1,10 +1,10 @@
 {
   "businessName": "Lux Customs",
   "location": {
-    "unit": "Endeavour Hills",
-    "suburb": "Endeavour Hills",
+    "unit": "Springvale",
+    "suburb": "Springvale",
     "state": "Victoria",
-    "postcode": "3802",
+    "postcode": "3171",
     "region": "South East Melbourne, Victoria"
   },
   "contact": {
@@ -24,7 +24,7 @@
     {
       "id": "business-info",
       "title": "1. Business Information",
-      "content": "Lux Customs is a South East Melbourne-based automotive window tinting and vehicle protection business located at Endeavour Hills, Victoria 3802. Our services may include car tinting, ceramic paint protection, graphene coating, dash cam installation, old tint removal, and other related vehicle protection services."
+      "content": "Lux Customs is a South East Melbourne-based automotive window tinting and vehicle protection business located at Springvale, Victoria 3171. Our services may include car tinting, ceramic paint protection, graphene coating, dash cam installation, old tint removal, and other related vehicle protection services."
     },
     {
       "id": "acceptance",

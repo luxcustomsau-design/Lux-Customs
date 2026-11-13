@@ -38,7 +38,7 @@ export default function HomeHero() {
             className="flex items-center space-x-3 text-xs sm:text-sm font-semibold tracking-[0.25em] text-[#FBBF24] uppercase"
           >
             <span className="w-8 h-[1px] bg-[#FBBF24]" />
-            <span>Endeavour Hills · VIC</span>
+            <span>Springvale · VIC</span>
           </motion.div>
 
           {/* Main Headline */}

@@ -22,7 +22,7 @@ export default function ByTheNumbersSection() {
           <div className="relative group overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-900 aspect-[4/3] sm:aspect-[4/3]">
             <Image
               src="/about/aboutCar.avif"
-              alt="Lux Customs Studio Endeavour Hills"
+              alt="Lux Customs Studio Springvale"
               fill
               className="object-cover transition-transform duration-500 ease-out group-hover:scale-105 opacity-85"
             />
@@ -32,7 +32,7 @@ export default function ByTheNumbersSection() {
             {/* Studio Location Footer Label on Image */}
             <div className="absolute bottom-6 left-6 right-6 flex items-center justify-between text-xs tracking-[0.2em] uppercase text-zinc-400 font-semibold">
               <span>THE STUDIO</span>
-              <span>ENDEAVOUR HILLS, VIC 3802</span>
+              <span>SPRINGVALE, VIC 3171</span>
             </div>
           </div>
         </div>
